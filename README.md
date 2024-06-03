@@ -3,7 +3,7 @@
 This is a Go application for managing user service.The User Service is responsible for user-related operations such as registration, authentication, and profile management. It provides endpoints for creating, updating, and deleting user accounts, as well as handling authentication and session management
 ## Features
 
-The Rider Service offers comprehensive features tailored for efficient rider management and delivery operations. Key functionalities include:
+The User Service is responsible for user-related operations such as registration, authentication, and profile management. It provides endpoints for creating, updating, and deleting user accounts, as well as handling authentication and session management.
 
 -User Registration: Allows users to create new accounts by providing necessary information such as username, email, and password.
 
